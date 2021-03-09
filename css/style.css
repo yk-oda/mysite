@@ -35,10 +35,7 @@ ul li{
 
 #prevpage,#nextpage{
     cursor: pointer;
+    text-decoration: underline;
 }
 
 
-/*max-width 767px*/
-@media screen and (max-width:767px){
-    
-}
