@@ -17,6 +17,12 @@ body{
     margin: 0 auto;
     
 }
+#file img{
+    object-fit: cover;
+    width: 425px;
+    height: 600px;
+}
+
 .pages{
     margin: 0;
     display: flex;
